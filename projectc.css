@@ -1,0 +1,85 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+#d1{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+#d2{
+     height: 60vh;
+    width: 60vw;
+    background-color: white;
+    border-radius: 20px;
+}
+#d3{
+    font-weight: bold;
+    font-size: 1.3rem;
+    padding: 20px 20px 0px 20px;
+}
+#d4{
+    font-size: 1.2rem;
+    padding: 20px 20px 0px 20px;
+}
+#d5{
+    width: 90%;
+      font-size: 0.9rem;
+      border-radius: 6px;
+      padding: 10px;
+      border:1px solid black;
+}
+
+#d6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 20px 0px 20px;
+    gap: 18%;
+    font-weight: bold;
+
+}
+#d6b{height: 3vh;
+    width: 3vw;
+    border: none;
+}
+#im1{height: 3vh;
+    width: 3vw;
+    padding-top: 10px;
+}
+
+.s1{
+    border-radius: 5px;
+    height: 30px;
+    font-weight: bold;
+    width: 70PX;
+}
+
+#d7{
+    padding: 40px 20px 0px 30px;
+    font-weight: bold;
+}
+#d8{
+ margin-top: 25px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+}
+#submit1{
+    width: 70%;
+    height: 30%;
+    font-size: 1rem;
+    border-radius: 7px;
+    border: none;
+    background-color: rgb(9, 140, 129);
+    color: white;
+}
+#submit1:hover{
+    border: 2px solid black;
+    color: rgb(18, 28, 132);
+     cursor: pointer;
+}
